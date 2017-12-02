@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_contacts_provider.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_contacts_provider.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_database.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_database.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_sdcard.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_sdcard.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_wifi.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_wifi.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_progress_bar.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_proximity_sensor.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_proximity_sensor.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_notification.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_notification.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_spinner.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_spinner.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_database.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_database.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_alert_dialog.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_dynamic_list.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_dynamic_list.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_preference_use.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_preference_use.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_options_menu.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_options_menu.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_camera.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_wifi.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_wifi.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_spinner.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_spinner.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_custom_list.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_custom_list.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_seek_bar.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_seek_bar.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_contacts_provider.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_contacts_provider.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_notification.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_notification.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_alert_dialog.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_bluetoot.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_bluetoot.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_preference_use.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_preference_use.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_camera.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_camera.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_options_menu.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_options_menu.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_dynamic_list.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_dynamic_list.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_radio.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_radio.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_radio.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_radio.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_seek_bar.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_seek_bar.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_orientation_sensor.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_orientation_sensor.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_orientation_sensor.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_orientation_sensor.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_sdcard.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_sdcard.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_bluetoot.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_bluetoot.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_progress_bar.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\menu\\activity_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_proximity_sensor.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_proximity_sensor.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/menu/activity_custom_list.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/menu/activity_custom_list.xml"
+    }
+]

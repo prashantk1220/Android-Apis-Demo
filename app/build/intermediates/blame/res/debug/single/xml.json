@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/xml/preferences.xml"
+    }
+]

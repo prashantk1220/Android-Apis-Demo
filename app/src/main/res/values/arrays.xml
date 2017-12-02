@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- Used in SpinnerActivity.java -->
+    <string-array name="colors">
+        <item>red</item>
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>violet</item>
+    </string-array>
+    
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+    
+    
+    <!-- Used in PreferencesFromCode -->
+    <string-array name="entries_list_preference">
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>  
+    </string-array>
+    
+    <string-array name="entryvalues_list_preference">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>  
+    </string-array>
+</resources>

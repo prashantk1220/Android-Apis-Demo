@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "/Users/prash/Desktop/HPDemo/C:\\Android proj\\HPDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prash/Desktop/HPDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/prash/Desktop/HPDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

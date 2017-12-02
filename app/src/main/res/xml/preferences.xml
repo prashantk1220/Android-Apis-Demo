@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- This is a primitive example showing the different types of preferences available. -->
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="In-line preferences">
+            
+        <CheckBoxPreference
+                android:key="checkbox_preference"
+                android:title="Toggle preference"
+                android:summary="This is a toggle button" />
+            
+    </PreferenceCategory>
+                
+    <PreferenceCategory
+            android:title="Dialog-based preferences">
+
+        <EditTextPreference
+                android:key="edittext_preference"
+                android:title="Edit text preference"
+                android:summary="An example that uses an edit text dialog"
+                android:dialogTitle="Enter your favorite animal" />
+                
+        <ListPreference
+                android:key="list_preference"
+                android:title="List preference"
+                android:summary="An example that uses a list dialog"
+                android:entries="@array/entries_list_preference"
+                android:entryValues="@array/entryvalues_list_preference"
+                android:dialogTitle="Choose one" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:title="Launch preferences">
+
+        <!-- This PreferenceScreen tag serves as a screen break (similar to page break
+             in word processing). Like for other preference types, we assign a key
+             here so it is able to save and restore its instance state. -->
+        <PreferenceScreen
+                android:key="screen_preference"
+                android:title="Screen preference"
+                android:summary="Shows another screen of preferences">
+            
+            <!-- You can place more preferences here that will be shown on the next screen. -->
+                     
+            <CheckBoxPreference
+                    android:key="next_screen_checkbox_preference"
+                    android:title="Toggle preference"
+                    android:summary="Preference that is on the next screen but same hierarchy" />
+                
+        </PreferenceScreen>
+
+        <PreferenceScreen
+                android:title="Intent preference"
+                android:summary="Launches an Activity from an Intent">
+
+            <intent android:action="android.intent.action.VIEW"
+                    android:data="http://www.android.com" />
+
+        </PreferenceScreen>
+
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+            android:title="Preference attributes">
+    
+        <CheckBoxPreference
+                android:key="parent_checkbox_preference"
+                android:title="Parent toggle"
+                android:summary="This is visually a parent" />
+
+        <!-- The visual style of a child is defined by this styled theme attribute. -->
+        <CheckBoxPreference
+                android:key="child_checkbox_preference"
+                android:dependency="parent_checkbox_preference"
+                android:layout="?android:attr/preferenceLayoutChild"
+                android:title="Child toggle"
+                android:summary="This is visually a child" />
+            
+    </PreferenceCategory>
+    
+</PreferenceScreen>
